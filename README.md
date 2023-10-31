@@ -4,6 +4,10 @@
 
 This ETL (Extract, Transform, Load) pipeline project leverages Amazon Web Services (AWS) to manage and process simulated user purchase data. The project focuses on generating, storing, processing, and visualizing data to provide insights. It employs various AWS services, including Amazon S3, AWS Glue, AWS Lambda, AWS Quicksight, and AWS Athena, along with Identity and Access Management (IAM) for secure access control. The pipeline automates the ingestion of data, its transformation, and the creation of dynamic dashboards for data analysis, ensuring the efficient and effective use of cloud resources.
 
+## **Architecture Diagram**:
+
+![alt text](https://github.com/Darshanesh-Patil/E-commerce-ETL-Pipeline/blob/7a49f2edd2fc30501206b921e5385ae3e609d269/Architecture-Diagram.jpg?raw=true)
+
 ## **Scope**:
 
 The scope of this project encompasses the following key components:
